@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+.indextitle{
+	font-size:30px;
+	text-align:center;
+	font-family:chiller;
+	text-decoration:underline;
+	top:30%;
+}
+
+.NIC{
+	
+	font-weight:bold;
+	margin-right : 30px;
+	
+}
+
+.Name{
+	
+	font-weight:bold;
+	
+}
+
+.dep{
+	
+	font-weight:bold;
+}
+
+.desi{
+	
+	font-weight:bold;
+}
+
+.btnadd{
+	font-size:20px;
+	font-weight : bold;
+	background-color:yellow;
+}
+
+.btnsub{
+	font-size:20px;
+	font-weight : bold;
+	background-color : yellow;
+}
+
+.anchor{
+	text-align:center;
+	font-size:15px;
+	font-weight:bold;
+}
+
+.table{
+	background-color:yellow;
+	font-size:18px;
+}
+
+.update{
+	background-color:yellow;
+	font-size:18px
+}
+
+.btnupdate{
+	background-color:orange;
+	font-weight:bold;
+	font-size:15px;
+}
